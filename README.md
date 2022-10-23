@@ -1,5 +1,6 @@
 # Book lending
-GUI-Swing Application
+**GUI-Swing Application**
+<br>
 Allows to perform CRUD operations in memory to carry a lending books inventory
 ![principal](https://user-images.githubusercontent.com/96161558/197406916-ce685814-727a-4d67-8f2a-a6e34a6a1f98.PNG)
 <br>
